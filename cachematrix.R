@@ -2,7 +2,7 @@
 ## so that we do not need to recalculate the inverse of the same matrix anytime
 ## we need it again.
 
-## The makeCacheMatrix method takes as input a numeric matrix. It returns a
+## The makeCacheMatrix function takes as input a numeric matrix. It returns a
 ## list that contains 4 elements. Each element in the list is a function. 
 
 ## The functions returned in the list are -
